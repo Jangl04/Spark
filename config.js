@@ -1,4 +1,4 @@
-import {watchFile, unwatchFile} from 'fs';
+Noimport {watchFile, unwatchFile} from 'fs';
 import chalk from 'chalk';
 import {fileURLToPath} from 'url';
 import fs from 'fs'; 
@@ -8,12 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['390371717717', 'nobody|'],
-  ['393518398856', 'nobody|'],
-  ['393755775755', 'nobody|'],
-  ['393755575577', 'nobody|'],
-  ['33760536110', 'nobody|'],
-]
+  ['393202866908', 'nobody|'],
 global.suittag = ['390371717717'] 
 global.prems = ['390371717717'] 
 global.reportes_solicitudes = ['390371717717']
